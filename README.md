@@ -24,4 +24,4 @@ Now we extend towards the case of a single channel queuing system considering a 
 Now, simulate this bank problem having µ=5.6 customers/minute (arrival rate) and λ=5 customers/minute (service rate) for 20 customers. You should use exactly 19 to 20 random variates for generating the random variables(two). You don’t need to consider after precision values of decimal point for service times during simulation for the convenience. You can use any subroutine, object, or any built-in function of any relevant programming language. The average number of customer waiting, the average waiting time of a customer should be your statistical estimators for examining the true characteristics of the system.
 
 [ Note: here I used 'POISSON DISTRIBUTION' for Inter Arrival Time generation & I used 'EXPONENTIAL DISTRIBUTION' for service time generation ]
-[Assignment 6.docx](https://github.com/shakil2510/Single-Channel-Queue-Python-Master/files/6177970/Assignment.06.docx)
+[Assignment 06.docx](https://github.com/shakil2510/Single-Channel-Queue-Python-Master/files/6177970/Assignment.06.docx)
