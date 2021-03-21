@@ -1,7 +1,7 @@
 :: windows
 
-echo 'Installing Python Libraries:'
-echo 'Please Waint...'
+echo 'To install Necessary Libraries'
+echo 'Make sure you have active internet connection'
 python -m pip install --user numpy scipy matplotlib ipython jupyter pandas sympy nose
 pip install colored
 
