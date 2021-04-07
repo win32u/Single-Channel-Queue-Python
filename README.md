@@ -1,4 +1,4 @@
-# Single-Channel-Queue-Python-Master
+# Single-Channel-Queue-Python
 
 ### Background:
 Random numbers are very important in discrete event simulation for generating event times. A chain of
