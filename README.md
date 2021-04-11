@@ -12,8 +12,6 @@
 7. S.M Alauddin  ( ID : CSE 01406367 )
 
 
-![Uploading image014.gif…]()
-
 
 # Discrete Random Variables:
 A variable is a quantity whose value changes. 
@@ -33,6 +31,20 @@ A continuous variable is a variable whose value is obtained by measuring.
         number of vehicle cross in a road
                         
                         
+
+
+# Poisson Distribution
+
+What Is a Poisson Distribution?
+In statistics, a Poisson distribution is a probability distribution that can be used to show how many times an event is likely to occur within a specified period of time﻿. In other words, it is a count distribution. Poisson distributions are often used to understand independent events that occur at a constant rate within a given interval of time. It was named after French mathematician Siméon Denis Poisson.
+
+The Poisson distribution is a discrete function, meaning that the variable can only take specific values in a (potentially infinite) list. Put differently, the variable cannot take all values in any continuous range. For the Poisson distribution (a discrete distribution), the variable can only take the values 0, 1, 2, 3, etc., with no fractions or decimals.
+
+
+The Formula for the Poisson Distribution Is:
+![poisson-56a8fa9e3df78cf772a26eb0](https://user-images.githubusercontent.com/42375657/114293352-2c6d8600-9ab7-11eb-9f41-f6b67bb29a06.jpg)
+
+
 
 # The single channel queuing model can be fitted in situations where the following seven conditions are fulfilled:
 
