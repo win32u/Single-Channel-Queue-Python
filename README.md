@@ -1,65 +1,36 @@
 # Single-Channel-Queue-Python
 
-# Course Instractor:
+# Submitted By:
 
-SUBMITTED  BY _	 
-Mohammad Abu Kowser Shakil  ( ID : CSE 01205959 )
-Abdul Aziz ( ID : CSE 01206043 )
-Tanvir Chowdhury ( ID : CSE 01406370 )
-Md. Faisal Amin ( ID : CSE 01206014 )
-Md. Shahriar Parvez ( ID : CSE 01406371 )
-Md. Rayhan Uddin ( ID : CSE 01406366 )
-S.M Alauddin  ( ID : CSE 01406367 )
-
+1. Mohammad Abu Kowser Shakil  ( ID : CSE 01205959 )
+2. Abdul Aziz ( ID : CSE 01206043 )
+3. Tanvir Chowdhury ( ID : CSE 01406370 )
+4. Md. Faisal Amin ( ID : CSE 01206014 )
+5. Md. Shahriar Parvez ( ID : CSE 01406371 )
+6. Md. Rayhan Uddin ( ID : CSE 01406366 )
+7. S.M Alauddin  ( ID : CSE 01406367 )
 
 
-Discrete and Continuous Random Variables:
 
- 
 
+# Discrete Random Variables:
 A variable is a quantity whose value changes. 
-
- 
-
 A discrete variable is a variable whose value is obtained by counting.
+   Examples:     
+       number of students present
+       number of position hexacone
+       students’ grade level
 
- 
 
-Examples:     number of students present
-
-                                    number of red marbles in a jar
-
-                                    number of heads when flipping three coins
-
-                                    students’ grade level
-
- 
-
+# Continuous Random Variables:
 A continuous variable is a variable whose value is obtained by measuring.
-
- 
-
-Examples:     height of students in class
-
-                        weight of students in class
-
-                        time it takes to get to school
-
-                        distance traveled between classes
-
- 
-
-A random variable is a variable whose value is a numerical outcome of a random phenomenon.
-
- 
-
-▪         A random variable is denoted with a capital letter
-
-▪         The probability distribution of a random variable X tells what the possible values of X are and how probabilities are assigned to those values
-
-▪         A random variable can be discrete or continuous
-
-
+   Examples:     
+        height of students in class   
+        weight of students in class
+        time it takes to get to school
+        number of vehicle cross in a road
+                        
+                        
 
 # The single channel queuing model can be fitted in situations where the following seven conditions are fulfilled:
 
@@ -75,4 +46,4 @@ A random variable is a variable whose value is a numerical outcome of a random p
 Now, simulate this bank problem having µ=5.6 customers/minute (arrival rate) and λ=5 customers/minute (service rate) for 20 customers. You should use exactly 19 to 20 random variates for generating the random variables(two). You don’t need to consider after precision values of decimal point for service times during simulation for the convenience. You can use any subroutine, object, or any built-in function of any relevant programming language. The average number of customer waiting, the average waiting time of a customer should be your statistical estimators for examining the true characteristics of the system.
 
 [ Note: here I used 'POISSON DISTRIBUTION' for Inter Arrival Time generation & I used 'EXPONENTIAL DISTRIBUTION' for service time generation ]
-[Assignment 06.docx](https://github.com/shakil2510/Single-Channel-Queue-Python-Master/files/6177970/Assignment.06.docx)
+[Assignment 06.docx](https://github.com/shakil2510/Single-Channel-Queue-Python-Master/files/6177970/Assignment.docx)
