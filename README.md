@@ -1,9 +1,12 @@
 # Single-Channel-Queue-Python
 
 # Course Instractor:
+
 SUBMITTED  TO _ 
-Mr. Muhtadir Rahman Shihab, LECTURER, 
-DEPT.  OF  CSE, PORT  CITY  INT.  UNIVERSITY
+Mr. Muhtadir Rahman Shihab, 
+LECTURER, 
+DEPT.  OF  CSE, 
+PORT  CITY  INT.  UNIVERSITY
 
 
 # The single channel queuing model can be fitted in situations where the following seven conditions are fulfilled:
