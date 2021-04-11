@@ -1,6 +1,12 @@
 # Single-Channel-Queue-Python
 
-The single channel queuing model can be fitted in situations where the following seven conditions are fulfilled:
+# Course Instractor:
+SUBMITTED  TO _ 
+Mr. Muhtadir Rahman Shihab, LECTURER, 
+DEPT.  OF  CSE, PORT  CITY  INT.  UNIVERSITY
+
+
+# The single channel queuing model can be fitted in situations where the following seven conditions are fulfilled:
 
 1. The number of arrivals per unit of time is described by poisson distribution. The mean arrival rate is denoted by λ.
 2. The service time has exponential distribution. The average service rate is denoted by μ.
