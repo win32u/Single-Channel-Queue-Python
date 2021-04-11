@@ -1,5 +1,6 @@
 # Single-Channel-Queue-Python
 
+# Group: 6
 # Submitted By:
 
 1. Mohammad Abu Kowser Shakil  ( ID : CSE 01205959 )
@@ -11,6 +12,7 @@
 7. S.M Alauddin  ( ID : CSE 01406367 )
 
 
+![Uploading image014.gif…]()
 
 
 # Discrete Random Variables:
@@ -42,8 +44,11 @@ A continuous variable is a variable whose value is obtained by measuring.
 6. The mean arrival rate is less than the mean service rate i.e. λ < μ.
 7. The waiting space available for customers in the queue is infinite.
 
+
+
+
 ## Problem Statement
 Now, simulate this bank problem having µ=5.6 customers/minute (arrival rate) and λ=5 customers/minute (service rate) for 20 customers. You should use exactly 19 to 20 random variates for generating the random variables(two). You don’t need to consider after precision values of decimal point for service times during simulation for the convenience. You can use any subroutine, object, or any built-in function of any relevant programming language. The average number of customer waiting, the average waiting time of a customer should be your statistical estimators for examining the true characteristics of the system.
 
 [ Note: here I used 'POISSON DISTRIBUTION' for Inter Arrival Time generation & I used 'EXPONENTIAL DISTRIBUTION' for service time generation ]
-[Assignment 06.docx](https://github.com/shakil2510/Single-Channel-Queue-Python-Master/files/6177970/Assignment.docx)
+[Assignment.docx](https://github.com/shakil2510/Single-Channel-Queue-Python-Master/files/6177970/Assignment.docx)
