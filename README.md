@@ -2,11 +2,63 @@
 
 # Course Instractor:
 
-SUBMITTED  TO _ 
-Mr. Muhtadir Rahman Shihab, 
-LECTURER, 
-DEPT.  OF  CSE, 
-PORT  CITY  INT.  UNIVERSITY
+SUBMITTED  BY _	 
+Mohammad Abu Kowser Shakil  ( ID : CSE 01205959 )
+Abdul Aziz ( ID : CSE 01206043 )
+Tanvir Chowdhury ( ID : CSE 01406370 )
+Md. Faisal Amin ( ID : CSE 01206014 )
+Md. Shahriar Parvez ( ID : CSE 01406371 )
+Md. Rayhan Uddin ( ID : CSE 01406366 )
+S.M Alauddin  ( ID : CSE 01406367 )
+
+
+
+Discrete and Continuous Random Variables:
+
+ 
+
+A variable is a quantity whose value changes. 
+
+ 
+
+A discrete variable is a variable whose value is obtained by counting.
+
+ 
+
+Examples:     number of students present
+
+                                    number of red marbles in a jar
+
+                                    number of heads when flipping three coins
+
+                                    students’ grade level
+
+ 
+
+A continuous variable is a variable whose value is obtained by measuring.
+
+ 
+
+Examples:     height of students in class
+
+                        weight of students in class
+
+                        time it takes to get to school
+
+                        distance traveled between classes
+
+ 
+
+A random variable is a variable whose value is a numerical outcome of a random phenomenon.
+
+ 
+
+▪         A random variable is denoted with a capital letter
+
+▪         The probability distribution of a random variable X tells what the possible values of X are and how probabilities are assigned to those values
+
+▪         A random variable can be discrete or continuous
+
 
 
 # The single channel queuing model can be fitted in situations where the following seven conditions are fulfilled:
