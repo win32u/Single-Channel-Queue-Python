@@ -1,3 +1,4 @@
+@echo off
 :: windows
 
 echo 'To install Necessary Libraries'
